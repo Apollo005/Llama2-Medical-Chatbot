@@ -1,0 +1,12 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.chat-container {
+    background-color: #F5F5F5;
+}
+
+.header {
+    background-color: #4CAF50;
+    color: white;
+}

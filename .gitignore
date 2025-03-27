@@ -18,3 +18,5 @@ lib/python3.11/site-packages/
 
 # Project Specific
 *.bin
+.chainlit/
+vectorstore/
